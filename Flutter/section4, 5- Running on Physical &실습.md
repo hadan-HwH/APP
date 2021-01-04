@@ -5,7 +5,7 @@
 3. Connect Your Phone with USB
 4. Trust Your Computer if Prompted (Phone)
 5. Run App From Android Studio <br>
-![enter image description here](https://ifh.cc/g/DYketN.jpg)
+![in my device](https://ifh.cc/g/DYketN.jpg)
 # Section 5: I Am Poor 
 
     void main() {  
