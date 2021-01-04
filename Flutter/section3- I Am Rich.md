@@ -1,4 +1,4 @@
-﻿# Section 2: I Am Rich - How to Create Flutter Apps From Scratch
+﻿# Section 3: I Am Rich - How to Create Flutter Apps From Scratch
 
  ## Structure
  - runApp()
